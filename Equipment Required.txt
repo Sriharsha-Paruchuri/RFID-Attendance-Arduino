@@ -1,0 +1,11 @@
+Equipment Required
+
+1.Arduino Uno
+2.RFID MFRC522 Module
+3.SD card module
+4.RTC module
+5.LCD display (20 x 4) with i2c lcd module
+6.i2c module
+7.USB-A to B Cable
+8.Breadboard Jumper Wires
+8.DC Gear servo Motor
